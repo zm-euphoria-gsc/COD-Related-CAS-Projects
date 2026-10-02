@@ -1,8 +1,12 @@
 ### IMPORTANT NOTES: ###
 ## - FOR ZOMBIES PLAYERS: [ZWR](https://zwr.gg) CURRENTLY **DISALLOWS** CUSTOM TEXTURES IN COMPETITVE GAMES FOR BLACK OPS 4. THIS IS BECAUSE THEY ARE A RECENT ADDITION AND THERE ARE NO ESTABLISHED RULES YET. THIS ISSUE IS GOING TO BE VOTED ON IN THE NEAR FUTURE AND THE REPOSITORY WILL BE UPDATED ACCORDINGLY ##
-## - FOR THE IB: NONE OF THE OTHER PROJECTS AND REPOSITORIES LIKE MY FORK OF THE IW7 GAME CLIENT OR SCRIPT DUMPS ARE INTENDED FOR CAS DUE TO AI USE AND EXPERIMENTAL, ONLY WHAT I HAVE ON THIS REPOSITORY SHOULD BE ASSESSED ##
+## - FOR THE IB: ONLY THE PROJECTS INCLUDED IN THIS REPOSITORY WILL BE PART OF THE FINAL SUBMISSION FOR THE CAS PROJECT. ANY OTHER REPOSITORIES ON MY GITHUB THAT WILL NOT BE COUNTED DUE TO AI USAGE AND OTHER UNRELATED GOALS THAT DO NOT FIT THE THEME OF THIS PROJECT <u>UNLESS THEY HAVE BEEN EXPLICITLY BEEN LINKED TO THIS REPOSITORY LIKE ANY ADDITIONAL DUMPS I HAVE</u. ##
 
-This is a a collection of all the camos I have made for Black Ops 4 (T8 or Bo4) so far. This is also my project to polish them all up to actually be usable in game. Many of them are often ambiguous or are rushed so they need to be fixed up. This repository will also contain other COD modding projects I do for CAS.
+This repository is a a collection of all the mods and different projects I have been working on for different Call of Duty games to submit as a Creativity project for CAS (Creativity, Activity, and Service) as part of my IB Diploma program. The planned contents of this repository are:
+
+- **(Work in Progress) All of my previously made and some of my newly-made custom textures including weapon camos, perk icons, and other UI textures. As well as catalogging the proccess. (Black Ops 4, might expand to other games)**
+- **(Planned) 1:1 recreation of MH as a custom map in game. Currently I still need to gather appropriate layouts, measurements, and the necessary mod tools to figure out the outline. (World at War, Black Ops, Black Ops 3, still not determined).**
+- **(Planned) 
 
 This is also a project I am making for CAS as part of my IB Diploma, as I am also making new camos for the pack and providing explanations as well below. This description will therefore be split into a section for the CAS advisors/IB evaluations to explain the fundamentals and goals of the project, and another section for Bo4 players who want to know more intricate details on installing camos, and how they work
 
